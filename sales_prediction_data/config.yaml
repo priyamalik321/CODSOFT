@@ -1,0 +1,14 @@
+filename: 'advertising (1)'
+features:
+  - 'TV'
+  - 'Radio'
+  - 'Newspaper'
+  - 'Sales'
+
+features_input:
+  - 'TV'
+  - 'Radio'
+  - 'Newspaper'
+
+
+target_feature: 'Sales'

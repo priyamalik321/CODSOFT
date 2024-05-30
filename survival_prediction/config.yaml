@@ -1,0 +1,25 @@
+filename: 'train'
+features:
+  - 'Pclass'
+  - 'PassengerId'
+  - 'Sex'
+  - 'Age'
+  - 'SibSp'
+  - 'Parch'
+  - 'Fare'
+  - 'Embarked'
+  - 'Survived'
+
+features_input:
+  - 'Pclass'
+  - 'PassengerId'
+  - 'Sex'
+  - 'Age'
+  - 'SibSp'
+  - 'Parch'
+  - 'Fare'
+  - 'Embarked'
+
+
+
+target_feature: 'Survived'

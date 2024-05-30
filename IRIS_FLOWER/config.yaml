@@ -1,0 +1,17 @@
+
+filename: 'IRIS'
+features:
+  - 'sepal_length'
+  - 'sepal_width'
+  - 'petal_length'
+  - 'petal_width'
+  - 'species'
+
+features_input:
+  - 'sepal_length'
+  - 'sepal_width'
+  - 'petal_length'
+  - 'petal_width'
+
+
+target_feature: 'species'

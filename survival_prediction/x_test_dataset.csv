@@ -1,0 +1,11 @@
+Pclass,PassengerId,Sex,Age,SibSp,Parch,Fare,Embarked
+1,494,male,30,0,0,50,C
+2,773,female,30,0,0,10,S
+2,674,male,31,0,0,13,S
+3,205,male,18,0,0,8,S
+1,137,female,19,0,0,26,S
+1,626,male,30,0,0,32,S
+1,138,male,37,1,0,53,S
+3,533,male,17,1,0,7,C
+2,447,female,13,0,0,20,S
+3,297,male,24,0,0,7,C
